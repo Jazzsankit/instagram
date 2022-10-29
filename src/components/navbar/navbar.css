@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    height: 57px;
+    align-items: center;
+    background: white;
+    border-bottom: 0.7px solid lightgray;
+    position: sticky;
+    top: 0px;
+}
+.options{
+    display: flex;
+    justify-content: space-around;
+    width: 20%;
+}
+.searchBar{
+
+}
